@@ -1,0 +1,3 @@
+AccuracyExperiment.ipynb
+
+Checks the accuracy of the Defense model.

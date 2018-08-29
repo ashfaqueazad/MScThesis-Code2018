@@ -1,0 +1,7 @@
+YOLOv2608x608.ipynb
+
+Uses YOLOv2 608 x 608 to detect objects within an image
+
+image source : http://www.epermittest.com/road-signs FOR THE STOP SIGN
+
+

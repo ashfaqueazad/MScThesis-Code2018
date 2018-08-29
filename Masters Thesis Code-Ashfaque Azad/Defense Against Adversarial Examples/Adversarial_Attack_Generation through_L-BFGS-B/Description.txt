@@ -1,0 +1,5 @@
+TargetedAdversarial_LBFGSB.ipynb
+
+Uses L-BFGS-B to attack ResNet50.
+
+Checks how median filter 3 x 3, and flipping of image horizontally impacts the images (adversarial and original). This led to make the defense model.

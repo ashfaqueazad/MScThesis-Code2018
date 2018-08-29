@@ -1,0 +1,7 @@
+Ensemble_Defense_Against_Adversarial_Inputs.ipynb
+
+Uses two lines for defense:
+1.Median filtering using 3 x 3 filter
+2.Ensemble of pre-trained image classifiers.
+
+New attack method is also created, where 2 pre-trained models are attacked by a single adversarial image.
