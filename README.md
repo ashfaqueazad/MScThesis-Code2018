@@ -17,4 +17,4 @@ Contained within these are:
   
    	Also checks the impact of using rotation (in our case flipping an image horizontally) and median filter (with window size of 3 x 3) upon images, both adversarial and unperturbed. 
 
-* α’ is an adversarial image capable of attacking two pre-trained image classifiers at a single time.
+*α’ is an adversarial image capable of attacking two pre-trained image classifiers at a single time.
