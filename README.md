@@ -1,7 +1,7 @@
 # MScThesis-Code2018
 Contains code related to the thesis "Object Detection and Defense against Adversarial Images"
 
-Contained within these are:
+Contained within this are:
 
 •	Code for object detection using YOLO v2 608 x 608.
 
